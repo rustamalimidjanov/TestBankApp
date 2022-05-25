@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestBankApp</string>
+    <string name="edit_log">Login</string>
+    <string name="edit_pass">Password</string>
+    <string name="button_sign_up">Sign Up</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="edit_first_name">First Name</string>
+    <string name="edit_middlename">Middle Name</string>
+    <string name="edit_lastname">Last Name</string>
+</resources>
